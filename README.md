@@ -1,18 +1,19 @@
-# Welcome to BC-DS 🚀
-**Business Consultants for Digital Solutions, LLC**
+# BC-DS | Business Consultants for Digital Solutions, LLC
 
-We build the systems, frameworks, and digital platforms that help organizations bridge the gap between high-level strategy and ground-level execution. 
+We design the structural conditions under which consequential decisions are genuinely made, not merely performed. 
 
-### 🏗️ Our Core Initiatives
+BC-DS provides the governed architecture that translates strategic intent into operational reality. We build the frameworks, platforms, and practitioner ecosystems that interrupt the Cascade of Distortion and make sound decision-making the structural default.
 
-* **[The BDA Framework](Link-to-repo):** The Business Decision Architecture framework is a comprehensive operating system for team alignment. It utilizes the UCADE Cycle, Commitment Gates, and Strategic Friction to eliminate strategic drift.
-* **[Convoking4](Link-to-repo):** Our proprietary digital platform, currently in active development, designed to facilitate and scale the BDA framework's methodologies.
-* **Decisiontect:** Our developing standard and future certification program for business decision-making and strategic architecture.
+### 🏗️ Core Architecture
 
-### 🌐 Connect with Us
-* **Website:** [www.bc-ds.com](https://www.bc-ds.com)
-* **Read the BDA Framework:** [Link to your Netlify URL once deployed]
-* **Leadership:** Managed by Founder & Lead Architect, [@Monica-mhr](https://github.com/Monica-mhr)
+* **The BDA & SDA Frameworks:** Open-discipline methodologies for organizational and individual decision governance. Powered by the Dual Lens principle and the UCADE Cycle, these frameworks replace performed consensus with verified alignment.
+* **Convoking4™:** Our proprietary digital environment. The platform implementation designed to scale BDA methodologies, enforce Independence of Input, and manage AI as a governed participant rather than an unchecked amplifier.
+* **The Decisiontect™ Ecosystem:** The credentialed practice layer (DT-A™, DT-C™, DT-P™) establishing the standard for Business Decision Architects and system governance.
 
----
+### 🌐 The Discipline
+
+* **Framework Documentation:** [Read the BDA v2.1 & SDA v1.0 Frameworks](https://bda-framework.bc-ds.com/)
+* **Corporate Site:** [www.bc-ds.com](https://www.bc-ds.com)
+* **Leadership:** Managed by Monica Hernandez (@Monica-mhr) — System Designer, CTO, and Lead Architect.
+
 *For enterprise consulting, framework implementation, or platform access, please reach out via our official website.*
